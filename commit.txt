@@ -1,7 +1,21 @@
-commit file
-++++++++++
+Title
+++++
 changing to get errors
 # practicing git yeahhh
 
-This is commit File
-@author cechus
+This is file commit.txt
+
+
+Hi
+
+
+@author both
+
+
+
+
+
+
+
+
+\copy 2020
