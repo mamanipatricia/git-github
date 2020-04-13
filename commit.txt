@@ -1,21 +1,14 @@
-Title
-++++
+commit file
+===========
+changing to get errors
+# practicing git yeahhh
+
+This is commit File
 changing to get errors
 # practicing git yeahhh
 
 This is file commit.txt
-
-
 Hi
 
+2020
 
-@author both
-
-
-
-
-
-
-
-
-\copy 2020
