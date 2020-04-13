@@ -1,7 +1,10 @@
 commit file
-++++++++++
+===========
 changing to get errors
 # practicing git yeahhh
 
 This is commit File
-@author cechus
+ok
+ok
+ok
+
