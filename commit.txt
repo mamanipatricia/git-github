@@ -4,7 +4,11 @@ changing to get errors
 # practicing git yeahhh
 
 This is commit File
-ok
-ok
-ok
+changing to get errors
+# practicing git yeahhh
+
+This is file commit.txt
+Hi
+
+2020
 
