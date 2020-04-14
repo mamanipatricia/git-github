@@ -25,3 +25,5 @@ yarn.lock
 fail2.txt
 
 logs/*
+!.gitkeep
+
