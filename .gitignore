@@ -23,3 +23,5 @@ yarn-error.log*
 fail1.txt
 yarn.lock
 fail2.txt
+
+logs/*
