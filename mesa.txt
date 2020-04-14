@@ -1,9 +1,9 @@
 
 mesa-file
 
-function loading () {
+function () {
     setTimePut(() => {
         this.load();
 
-    }, 9000)
+    }, 1000)
 }
