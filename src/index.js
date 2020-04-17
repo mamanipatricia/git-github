@@ -1,22 +1,9 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import Main from './Main';
+import React from 'react'
+import ReactDOM from 'react-dom'
 
 ReactDOM.render(
-
-  <Router>
-    <App />
-	<div>
-		<p>HOLA MUNDO</p>
-		THIS IS A FILE TO GET ERRORS
-		bls
-		bla
-		bla
-		bla
-		bla
-		vla
-
-	</div>
-  </Router>,
+  <div>
+    <p>HOLA MUNDO</p>
+  </div>,
   document.getElementById('root')
-);
+)
